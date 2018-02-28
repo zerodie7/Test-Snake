@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/00)Splash.unity
+    guid: 50c6107698fca1a4fbaf2344f6814d5f
+  - enabled: 1
+    path: Assets/Scene/01a)Start.unity
+    guid: 13c8684c59e54df4cac27ce3a9de5041
+  - enabled: 1
+    path: Assets/Scene/01c)OptionsDificultad.unity
+    guid: ebcd0fed29485cd409856c2cc5432ac6
+  - enabled: 1
+    path: Assets/Scene/01d)OptionsAudio.unity
+    guid: 5c654c2bf1b79404a897dcb5f1fe33dd
+  - enabled: 1
+    path: Assets/Scene/01f)Score.unity
+    guid: 7a5cc723e956b5c49803bf48a12cb9c7
+  - enabled: 1
+    path: Assets/Scene/02a)Classic.unity
+    guid: a3a99f9b83505414882c52a6b13b4a60
+  - enabled: 1
+    path: Assets/Scene/01b)OptionsMain.unity
+    guid: 2ba5350832477324ab38ebfeef686113
