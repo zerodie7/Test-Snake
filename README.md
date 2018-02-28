@@ -2,13 +2,14 @@
 Pequeño juego tipo snake con uso de base de datos SQlite para guardad marcadores del menor a mayor.
 
 
-#Uso
+# Uso
 
 El proyecto cuenta con un splash de inicio el cual nos lleva a un menú principal donde se encuentra las opciones de:
-•	START GAME
-•	SCORE
-•	OPTIONS
-•	QUIT GAME
+
+#START GAME
+#SCORE
+#OPTIONS
+#QUIT GAME
 
 La opción de “START GAME” te lleva al inicio del juego Snake en el cual tiene que pulsar alguna flecha del teclado en cualquier dirección o con el botón del ratón para poder iniciar. Esta pantalla cuenta con un marcador el cual se va incrementando con forme se colisiona con las manzanas y un Hiscore, el cual guarda el marcador reciente en un fichero dentro de unity. 
 	Así mismo cuenta con un “menú de pausa” dentro del juego para pode salir o parar el juego en cualquier momento, este se accede con la tecla “ESC” y se puede controlar por medio de pulsaciones por el ratón.
